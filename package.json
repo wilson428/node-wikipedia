@@ -1,0 +1,22 @@
+{
+  "name": "node-wikipedia",
+  "version": "0.0.1",
+  "author": "Chris Wilson <christopher.e.wilson@gmail.com>",
+  "description": "Simple wrapper for MediaWiki API",
+  "contributors": [],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimeMagazine/node-wikipedia.git"
+  },
+  "keywords": [
+    "wikipedia",
+    "mediawiki"
+  ],
+  "dependencies" : {
+    "sys"   :  "*",
+    "request" :  "*",
+    "d3" :  "*",
+    "downcache" : "https://github.com/wilson428/downcache.git"
+  }
+}

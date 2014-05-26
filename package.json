@@ -11,12 +11,17 @@
   },
   "keywords": [
     "wikipedia",
-    "mediawiki"
+    "mediawiki",
+    "api",
+    "wrapper"
   ],
+  "scripts": {
+    "test": "test/test.js"
+  },
   "dependencies" : {
     "sys"   :  "*",
     "request" :  "*",
     "d3" :  "*",
-    "downcache" : "https://github.com/wilson428/downcache.git"
+    "downcache" : "*"
   }
 }

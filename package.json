@@ -21,6 +21,7 @@
   "dependencies" : {
     "request" :  ">= 2.3.0",
     "downcache" : ">= 0.0.2",
-    "npmlog": "~0.0.6"
+    "npmlog": "~0.0.6",
+    "cheerio": "~0.16.0"
   }
 }

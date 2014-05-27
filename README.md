@@ -35,3 +35,5 @@ The [MediaWiki API](http://en.wikipedia.org/w/api.php) is wonderfully permissive
 #Under the Hood
 `dial.js` makes API requests, accepting parameters as an object, options as an object, and a callback.
 
+#License
+This script is provided free and open-source under the MIT license. If you use it, you are politely encouraged to link to this repo.

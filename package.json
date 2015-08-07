@@ -1,6 +1,6 @@
 {
   "name": "node-wikipedia",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Chris Wilson <christopher.e.wilson@gmail.com>",
   "description": "Simple wrapper for MediaWiki API",
   "contributors": [],
